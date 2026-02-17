@@ -1,7 +1,7 @@
 // Thay đổi nội dung búc thư ở đây
 var letterContent =
 "Gửi Xu cutee.\n\n" +
-"Đây là lần đầu tiên Kiệt viết thư và tặng quà cho người Kiệt thương. Những bông hoa nay tuy không đẹp nhưng Kiệt đã làm bằng trái tim của mình ,băng tất cả những yêu thương Kiệt dành cho Xuu. Mong rằng xuu sẽ thíchh món quà mà Kiệt đã chuẩn bị và nhớ đến tình yêu Kiệt dành cho xuu mỗi khi thấy nó.\n\n" +
+"Đây là lần đầu tiên Kiệt viết thư và cũng là lần đầu tiên Kiệt tặng quà cho người Kiệt thương. Món quà này tuy không đẹp nhưng Kiệt đã làm bằng trái tim của mình ,bằng tất cả những yêu thương Kiệt dành cho Xuu. Mong rằng xuu sẽ thíchh món quà mà Kiệt đã chuẩn bị và nhớ đến tình yêu Kiệt dành cho xuu mỗi khi thấy nó à cũng mong rằng Xu có thể chia sẽ nhiều điều trong lòng hơn cho Kiệt nghe.\n\n" +
 "🤍Chúc Xuuuu iuuu dấuuu có một Valentine thật vui vẻ, ấm áp, ngày càng trở nên cute và xinh đẹpppp hơn nữaa.\n\n" +
 "Mãii iuuu xuuuuu\n\n" +
 "- K dấu tên -";
