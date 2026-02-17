@@ -1,10 +1,10 @@
 // Thay đổi nội dung búc thư ở đây
 var letterContent =
-"Gửi Xu iuu.\n\n" +
-"Valentine này Toaiii muốn viết cho Xuuu vài dòng, không quá dài nhưng là những điều tôii thật sự nghĩ.Tôii thích cảm giác được nói chuyện với xuu, đôi khi chỉ cần nhắn vài câu thôi cũng thấy vui cả ngày. Có những lúc bình thường thật, nhưng vì là xuu nên lại trở nên đặc biệt.\n\n" +
-"Cảm ơn Xu vì đã xuất hiện trong cuộc sống của toaii theo cách rất đặc biệt, rất nhẹ nhàng nhưng đủ để làm taoii thao thức mỗi đêm. Toii trân trọng từng khoảnh khắc, từng câu chuyện cùng với Xuuu .Valentine này toaiii không mong gì hơn ngoài việc chúng ta vẫn có thể nói chuyệnvà cùng nhau tạo thêm nhiều kỷ niệm đẹp nữa.\n\n" +
-"🤍Chúc Xuuuu iuuu dấuuu có một Valentine thật vui vẻ, ấm áp.Và nhớ là luôn có một người luônn nghĩ đếnn xuuuuu đóoooooo.\n\n" +
-"- ngiu exuuuu -";
+"Gửi Xu cutee.\n\n" +
+"Đây là lần đầu tiên Kiệt viết thư và tặng quà cho người Kiệt thương. Những bông hoa nay tuy không đẹp nhưng Kiệt đã làm bằng trái tim của mình ,băng tất cả những yêu thương Kiệt dành cho Xuu. Mong rằng xuu sẽ thíchh món quà mà Kiệt đã chuẩn bị và nhớ đến tình yêu Kiệt dành cho xuu mỗi khi thấy nó.\n\n" +
+"🤍Chúc Xuuuu iuuu dấuuu có một Valentine thật vui vẻ, ấm áp, ngày càng trở nên cute và xinh đẹpppp hơn nữaa.\n\n" +
+"Mãii iuuu xuuuuu\n\n" +
+"- K dấu tên -";
 
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
